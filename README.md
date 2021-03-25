@@ -1,3 +1,3 @@
-# Heading
+# ONLY_BILL_FIRTH_AUTHORIZER + EOSJS
 
-XXX
+This example project shows how to use EOSJS and bill resources to a specfic account. 
